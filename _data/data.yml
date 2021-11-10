@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Richard Schlenker
-    tagline: Full Stack Developer
+    tagline: Team Manager
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mail@richard-schlenker.de
-    phone: 012 345 6789
+    phone: "-"
     website: richard-schlenker.de #do not add http://
     linkedin: richard-schlenker-85065251
     xing:
@@ -50,51 +50,32 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Team Manager in IT consulting with main focus on integration, cloud and microservices.
 education:
     - degree: MSc in Computer Science
       university: Karlsruhe Insitute of Technology (KIT)
       time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master Thesis: Multicriteria adaptive data aggregation in VANET
     - degree: BSc in Computer Science
       university: Karlsruhe Insitute of Technology (KIT)
       time: 2009 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Bachelor Thesis: Design and Implementation of a XIA-System for NENA
 experiences:
-    - role: Lead Developer
+    - role: Team Manager
       time: 2015 - Present
       company: Exxeta AG
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Team lead
+          - Leading interviews
+          - Leadership and mentoring
+          - Staffing
+    - role: Master thesis
+      time: 2014 - 2015
+      company: Fraunhofer ESK
+      details: |
+        Master Thesis: Multicriteria adaptive data aggregation in VANET
 
 projects:
     title: Projects
@@ -149,23 +130,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
